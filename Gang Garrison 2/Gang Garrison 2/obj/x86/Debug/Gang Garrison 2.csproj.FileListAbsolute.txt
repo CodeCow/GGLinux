@@ -1,0 +1,11 @@
+C:\Users\Amir\documents\visual studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\Gang Garrison 2.exe.config
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\SDL.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\SDL_Mixer.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\Gang Garrison 2.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\Gang Garrison 2.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\Lidgren.Network.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\MonoGame.Framework.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\bin\Debug\OpenTK.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\obj\x86\Debug\Gang Garrison 2.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gang Garrison 2\Gang Garrison 2\obj\x86\Debug\Gang Garrison 2.pdb
